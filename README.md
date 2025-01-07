@@ -6,12 +6,11 @@ Eu sou um **Programador Full Stack**, fascinado por tecnologia e tudo relacionad
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Frontend:**
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- **Design Responsivo:** Flexbox, Grid Layout, Media Queries  
-- **Outros:** Git, APIs REST  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+  
 
 ---
 
