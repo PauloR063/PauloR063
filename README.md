@@ -28,23 +28,14 @@ Eu sou um **Programador Full Stack**, fascinado por tecnologia e tudo relacionad
 
 ## 🌟 Projetos em Destaque
 
-### [**Portfólio Pessoal**](https://github.com/SEU_USUARIO/portfolio)
-Um site responsivo criado com **HTML**, **CSS** e **JavaScript** para exibir meus trabalhos.  
+### [**Projetos**](https://github.com/SEU_USUARIO/portfolio)
+Projetos responsivo criado com **HTML**, **CSS** e **JavaScript** para exibir meus trabalhos.  
 **Destaques:**  
 - Layout moderno e responsivo para diferentes dispositivos  
 - Integração com GitHub para exibir repositórios em tempo real  
 - Design limpo e fácil de navegar  
 
 ---
-
-### [**Página de Login Responsiva**](https://github.com/PauloR063/Projetos)
-Uma página de login elegante desenvolvida com **HTML** e **CSS**.  
-**Destaques:**  
-- Design responsivo e alinhado às melhores práticas  
-- Validação básica de entrada usando JavaScript  
-- Estrutura clara e reutilizável  
-
-
 
 
 ✨ *"A tecnologia só faz sentido quando transforma vidas."*  
