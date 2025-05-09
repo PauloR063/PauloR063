@@ -1,5 +1,5 @@
 ### # 👋 Hi there 🙂  
-Eu sou um **Programador Full Stack**, fascinado por tecnologia e tudo relacionado ao desenvolvimento de software!  
+Olá! Sou Paulo, Programador Full Stack apaixonado por tecnologia e desenvolvimento de software. Com experiência em front-end e back-end, gosto de criar soluções completas, funcionais e bem estruturadas. Estou sempre em busca de aprender novas ferramentas, enfrentar desafios e transformar ideias em produtos reais. 
 
 🚀 Trabalho principalmente com **HTML**, **CSS** e **JavaScript**, transformando ideias em soluções digitais e criando experiências web incríveis.  
 
